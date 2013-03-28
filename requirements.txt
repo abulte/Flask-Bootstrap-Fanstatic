@@ -1,0 +1,4 @@
+Flask
+Flask-Fanstatic
+js.bootstrap
+js.jquery
